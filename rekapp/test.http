@@ -1,0 +1,6 @@
+GET http://localhost:4004/rest/product/joinString(str1='Amazing',str2='World')
+
+#GET http://localhost:4004/odata/v4/product/printhelloworld(input='Smart')
+
+
+
